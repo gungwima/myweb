@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bromo &#8211; WimaTravel</title>
+	<atom:link href="https://gungwima.github.io/myweb/destinations/bromo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://gungwima.github.io/myweb</link>
+	<description>Best Travel </description>
+	<lastBuildDate>Sun, 20 Nov 2022 15:50:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Open Trip Bromo Sunrise</title>
+		<link>https://gungwima.github.io/myweb/trip/open-trip-bromo-sunrise/</link>
+					<comments>https://gungwima.github.io/myweb/trip/open-trip-bromo-sunrise/#respond</comments>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Sun, 20 Nov 2022 15:50:10 +0000</pubDate>
+				<guid isPermaLink="false">https://gungwima.github.io/myweb/?post_type=trip&#038;p=1557</guid>
+
+					<description><![CDATA[Gunung Bromo&#160;atau dalam&#160;bahasa Tengger&#160;dieja &#8220;Brama&#8221;, juga disebut&#160;Kaldera Tengger, adalah sebuah&#160;gunung berapi&#160;aktif di&#160;Jawa Timur,&#160;Indonesia. Gunung ini memiliki ketinggian 2.329 meter di atas permukaan laut dan berada dalam empat wilayah&#160;kabupaten, yakni&#160;Kabupaten Probolinggo,&#160;Kabupaten &#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Gunung Bromo</strong>&nbsp;atau dalam&nbsp;<a href="https://id.wikipedia.org/wiki/Bahasa_Tengger">bahasa Tengger</a>&nbsp;dieja &#8220;Brama&#8221;, juga disebut&nbsp;<strong>Kaldera Tengger</strong>, adalah sebuah&nbsp;<a href="https://id.wikipedia.org/wiki/Gunung_berapi">gunung berapi</a>&nbsp;aktif di&nbsp;<a href="https://id.wikipedia.org/wiki/Jawa_Timur">Jawa Timur</a>,&nbsp;<a href="https://id.wikipedia.org/wiki/Indonesia">Indonesia</a>. Gunung ini memiliki ketinggian 2.329 meter di atas permukaan laut dan berada dalam empat wilayah&nbsp;<a href="https://id.wikipedia.org/wiki/Kabupaten">kabupaten</a>, yakni&nbsp;<a href="https://id.wikipedia.org/wiki/Kabupaten_Probolinggo">Kabupaten Probolinggo</a>,&nbsp;<a href="https://id.wikipedia.org/wiki/Kabupaten_Pasuruan">Kabupaten Pasuruan</a>,&nbsp;<a href="https://id.wikipedia.org/wiki/Kabupaten_Lumajang">Kabupaten Lumajang</a>, dan&nbsp;<a href="https://id.wikipedia.org/wiki/Kabupaten_Malang">Kabupaten Malang</a>. Gunung Bromo terkenal sebagai objek wisata utama di&nbsp;<a href="https://id.wikipedia.org/wiki/Jawa_Timur">Jawa Timur</a>. Sebagai sebuah&nbsp;<a href="https://id.wikipedia.org/wiki/Pariwisata">objek wisata</a>, Bromo menjadi menarik karena statusnya sebagai gunung berapi yang masih aktif. Gunung Bromo termasuk dalam kawasan&nbsp;<a href="https://id.wikipedia.org/wiki/Taman_Nasional_Bromo_Tengger_Semeru">Taman Nasional Bromo Tengger Semeru</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gungwima.github.io/myweb/trip/open-trip-bromo-sunrise/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
